@@ -1,0 +1,9 @@
+{
+  "name": "Matthew's Idaho Permit Boot Camp",
+  "short_name": "Permit Boot Camp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c1422",
+  "theme_color": "#152238",
+  "description": "Idaho Class D permit study app for Matthew."
+}
